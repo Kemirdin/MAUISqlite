@@ -5,6 +5,8 @@
 
 public partial class App : Application
 {
+    // The constructor of the App class. It is called when the application starts.
+
 	public App()
 	{
 		InitializeComponent();
