@@ -7,6 +7,7 @@
     <!-- This section defines the application-level resources. These resources can be accessed and reused throughout the application. -->
     <Application.Resources>
         <ResourceDictionary>
+            <!-- This section contains merged dictionaries, which allow you to include multiple resource dictionaries in this application's resources. -->
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
