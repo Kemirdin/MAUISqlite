@@ -9,7 +9,11 @@
         <ResourceDictionary>
             <!-- This section contains merged dictionaries, which allow you to include multiple resource dictionaries in this application's resources. -->
             <ResourceDictionary.MergedDictionaries>
+
+                <!-- This line includes a XAML resource dictionary file named "Colors.xaml" located in the "Resources/Styles" folder. -->
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
+
+                <!-- This line includes another XAML resource dictionary file named "Styles.xaml" located in the "Resources/Styles" folder. -->
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
