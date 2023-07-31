@@ -1,5 +1,7 @@
-﻿using Microsoft.Extensions.Logging;
+// Import the necessary namespace for using the Microsoft.Extensions.Logging package.
+using Microsoft.Extensions.Logging;
 
+// The namespace for the MAUISqlite application.
 namespace MAUISqlite;
 
 public static class MauiProgram
