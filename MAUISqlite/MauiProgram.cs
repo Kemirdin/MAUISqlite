@@ -27,9 +27,12 @@ namespace MAUISqlite
             });
 
 #if DEBUG
-		builder.Logging.AddDebug();
+            // Add a debug logging provider if the DEBUG preprocessor symbol is defined.
+            builder.Logging.AddDebug();
 #endif
 
-		return builder.Build();
-	}
+            // Build and return the configured MauiApp instance.
+            return builder.Build();
+        }
+    }
 }
