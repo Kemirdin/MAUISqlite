@@ -7,6 +7,7 @@
     xmlns:local="clr-namespace:MAUISqlite"
     Shell.FlyoutBehavior="Disabled">
 
+    <!-- This ShellContent represents the "Home" page of the app. -->
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
