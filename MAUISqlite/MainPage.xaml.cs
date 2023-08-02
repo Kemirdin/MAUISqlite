@@ -2,6 +2,7 @@
 
 public partial class MainPage : ContentPage
 {
+        // Initialize a counter variable to keep track of the number of button clicks
 	int count = 0;
 
 	public MainPage()
