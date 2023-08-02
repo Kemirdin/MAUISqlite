@@ -8,6 +8,8 @@ public partial class MainPage : ContentPage
 	public MainPage()
 	{
 		InitializeComponent();
+                // This constructor is called when the MainPage is created, and it initializes the component.
+
 	}
 
 	private void OnCounterClicked(object sender, EventArgs e)
