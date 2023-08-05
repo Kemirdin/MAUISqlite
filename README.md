@@ -22,7 +22,7 @@ Offline Sync: Allow the app to work offline and sync data with the server when a
 ### Step 5: Handling Synchronization Conflicts
 When multiple devices are syncing data simultaneously, conflicts may arise. Implement conflict resolution mechanisms to handle such situations and ensure data integrity.
 
-Step 6: Store Data Locally
+### Step 6: Store Data Locally
 Depending on your app's requirements, you might need to store data locally on the device. Use appropriate databases like SQLite or Realm to handle local data storage.
 
 Step 7: Test the App
