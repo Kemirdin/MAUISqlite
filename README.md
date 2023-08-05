@@ -11,7 +11,7 @@ Use the dotnet command-line tool or the Visual Studio New Project wizard to crea
 ### Step 3: Design the App UI
 Use XAML or C# code to design the user interface of your app. Implement the necessary pages, views, and navigation to build the desired functionality.
 
-Step 4: Implement Data Synchronization Logic
+### Step 4: Implement Data Synchronization Logic
 To enable synchronization, you'll need to decide on a synchronization mechanism and implement the logic accordingly. Some common approaches include:
 
 
