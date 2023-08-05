@@ -18,7 +18,8 @@ To enable synchronization, you'll need to decide on a synchronization mechanism 
 RESTful APIs: Create server-side APIs to handle data synchronization. The app can send/receive data to/from the server using HTTP requests.
 WebSocket: Implement a WebSocket connection for real-time bidirectional data synchronization between the app and the server.
 Offline Sync: Allow the app to work offline and sync data with the server when an internet connection is available.
-Step 5: Handling Synchronization Conflicts
+
+### Step 5: Handling Synchronization Conflicts
 When multiple devices are syncing data simultaneously, conflicts may arise. Implement conflict resolution mechanisms to handle such situations and ensure data integrity.
 
 Step 6: Store Data Locally
