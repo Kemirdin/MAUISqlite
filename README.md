@@ -31,7 +31,7 @@ Perform thorough testing on all target platforms to ensure the app functions cor
 ### Step 8: Deployment
 Once your app is ready and tested, publish it to the respective app stores (Google Play Store, Apple App Store, Microsoft Store).
 
-Step 9: Monitor and Improve
+### Step 9: Monitor and Improve
 Monitor the app's performance and user feedback. Continuously improve the app by fixing bugs, adding new features, and enhancing the synchronization mechanism as needed.
 
 
