@@ -25,7 +25,7 @@ When multiple devices are syncing data simultaneously, conflicts may arise. Impl
 ### Step 6: Store Data Locally
 Depending on your app's requirements, you might need to store data locally on the device. Use appropriate databases like SQLite or Realm to handle local data storage.
 
-Step 7: Test the App
+### Step 7: Test the App
 Perform thorough testing on all target platforms to ensure the app functions correctly and synchronizes data accurately.
 
 Step 8: Deployment
