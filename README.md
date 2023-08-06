@@ -28,7 +28,7 @@ Depending on your app's requirements, you might need to store data locally on th
 ### Step 7: Test the App
 Perform thorough testing on all target platforms to ensure the app functions correctly and synchronizes data accurately.
 
-Step 8: Deployment
+### Step 8: Deployment
 Once your app is ready and tested, publish it to the respective app stores (Google Play Store, Apple App Store, Microsoft Store).
 
 Step 9: Monitor and Improve
