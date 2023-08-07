@@ -15,7 +15,7 @@ Use XAML or C# code to design the user interface of your app. Implement the nece
 To enable synchronization, you'll need to decide on a synchronization mechanism and implement the logic accordingly. Some common approaches include:
 
 
-RESTful APIs: Create server-side APIs to handle data synchronization. The app can send/receive data to/from the server using HTTP requests.
+### RESTful APIs: Create server-side APIs to handle data synchronization. The app can send/receive data to/from the server using HTTP requests.
 WebSocket: Implement a WebSocket connection for real-time bidirectional data synchronization between the app and the server.
 Offline Sync: Allow the app to work offline and sync data with the server when an internet connection is available.
 
